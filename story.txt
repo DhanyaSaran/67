@@ -1,2 +1,4 @@
 1. Bowlers
 2. Batsmen
+3.WicketKeeper
+4. Umpire
